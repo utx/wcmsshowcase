@@ -29,7 +29,7 @@ border: 5px solid black;
 
 /*add abc logo as background CSS - this picks up the first pagelet of type chester */
 
-.pagelet-chester:first-of-type {
+.abcrow-chester:first-of-type {
 background: url(http://www.abc.net.au/homepage/2013/styles/img/abc.png) no-repeat left;
 }
 
