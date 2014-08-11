@@ -6,4 +6,7 @@ background:url('http://mobile.abc.net.au/homepage/mobile/images/homepage/header-
 #page-footer {
 background-color:rgb(236,237,239);
 }
+#abcHeader {
+max-width: 100% !important;
+}
 
