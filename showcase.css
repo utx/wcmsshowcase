@@ -52,12 +52,12 @@ font-weight:bold;
     background-color: rgb(236,237,239);
 }
 
-.comp-navigation-primary ul.level-1 {
+.view-navigationPrimary ul.level-1 {
     background-color: rgb(236,237,239);
 
 }
 
-.comp-navigation-primary ul.level-1 li a {
+.view-navigationPrimary ul.level-1 li a {
 
     color: #444;
     font-family: "Montserrat",Arial,Helvetica,sans-serif;
@@ -70,30 +70,30 @@ font-weight:bold;
     padding-top: 0px;
 }
 
-.comp-navigation-primary ul.level-1 li a:hover {
+.view-navigationPrimary ul.level-1 li a:hover {
     color: #0058cc;
 }
 
-.comp-navigation-primary ul.level-1 li:hover {
+.view-navigationPrimary ul.level-1 li:hover {
     background-color: rgb(236,237,239);
 }
 
-.comp-navigation-primary .level-1 .link-1 {
+.view-navigationPrimary .level-1 .link-1 {
 //border:1px solid black;
 width:125px;
 //background-color:rgb(236,237,239) ;
    
 }
 
-.comp-navigation-primary ul.level-1 li:nth-of-type(7) a {
+.view-navigationPrimary ul.level-1 li:nth-of-type(7) a {
     background-color: rgb(236,237,239);
 }
 
-.comp-navigation-primary ul.level-1 li:nth-of-type(1) a {
+.view-navigationPrimary ul.level-1 li:nth-of-type(1) a {
     background-color: rgb(236,237,239);
 }
 
-.comp-navigation-primary ul.level-2 {
+.view-navigationPrimary ul.level-2 {
 width:225px;
 
 background-color: rgb(236,237,239);
