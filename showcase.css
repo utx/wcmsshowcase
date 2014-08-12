@@ -24,7 +24,8 @@ border: 5px solid black;
 .pagelet-header-branding {
 
     background: #132644 url('http://mobile.abc.net.au/homepage/mobile/images/homepage/header-bg.jpg');
-
+min-height:120px;
+max-height:120px;
 }
 
 /*add abc logo as background CSS - this picks up the first pagelet of type chester */
