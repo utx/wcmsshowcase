@@ -26,6 +26,7 @@ border: 5px solid black;
     background: #132644 url('http://mobile.abc.net.au/homepage/mobile/images/homepage/header-bg.jpg');
 min-height:120px;
 max-height:120px;
+padding-top:20px;
 }
 
 /*add abc logo as background CSS - this picks up the first pagelet of type chester */
