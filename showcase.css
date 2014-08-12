@@ -31,7 +31,7 @@ max-height:120px;
 /*add abc logo as background CSS - this picks up the first pagelet of type chester */
 
 .abcrow-chester:first-of-type {
-background: url(http://www.abc.net.au/homepage/2013/styles/img/abc.png) no-repeat left;
+//background: url(http://www.abc.net.au/homepage/2013/styles/img/abc.png) no-repeat left;
 }
 
 
