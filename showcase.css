@@ -1,3 +1,19 @@
+
+/* Hack to make first row align with responsive - uses a class firstrow defined on the row document */
+@media  (min-width: 640px) and (max-width: 1000px) {
+  .firstrow .span9 .view-richTall {    
+    border: 2px solid black;    
+    min-height: 705px;
+  }
+}
+
+@media  (min-width: 1000px) {
+  .firstrow .span3 .view-richTall {    
+    min-height: 377px;
+  }
+}
+
+
 /* footer */
 #page-footer {
 height:50px;
