@@ -2,7 +2,7 @@
 /* Hack to make first row align with responsive - uses a class firstrow defined on the row document */
 @media  (min-width: 640px) and (max-width: 1000px) {
   .firstrow .span9 .view-richTall {    
-    border: 2px solid black;    
+   // border: 2px solid black;    
     min-height: 705px;
   }
 }
