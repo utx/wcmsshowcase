@@ -13,7 +13,7 @@
 }
 
 .icon-search {
-    color: Gray;
+    color: Gray !important;
 }
 
 /* Hack to make first row align with responsive - uses a class firstrow defined on the row document */
