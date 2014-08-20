@@ -1,4 +1,9 @@
 
+/* Style search form */
+.view-searchForm .content-container {
+    padding: 0px;
+}
+
 /* Hack to make first row align with responsive - uses a class firstrow defined on the row document */
 @media  (min-width: 640px) and (max-width: 1000px) {
   .firstrow .span9 .view-richTall {    
