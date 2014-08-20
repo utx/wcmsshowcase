@@ -4,6 +4,18 @@
     padding: 0px;
 }
 
+.view-searchForm form .input-search-term {
+    border: 0px ;
+}
+
+.view-searchForm form {
+    border: 0px ;
+}
+
+.icon-search {
+    color: Gray;
+}
+
 /* Hack to make first row align with responsive - uses a class firstrow defined on the row document */
 @media  (min-width: 640px) and (max-width: 1000px) {
   .firstrow .span9 .view-richTall {    
