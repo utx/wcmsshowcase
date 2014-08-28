@@ -1,4 +1,9 @@
 
+/*Make mobile nav line up */
+.view-navigationMobilePrimaryTrigger{
+ margin-top:-20px;   
+}
+
 /* Style search form */
 .view-searchForm .content-container {
     padding: 0px;
