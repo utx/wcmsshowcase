@@ -180,3 +180,7 @@ background-color: rgb(236,237,239);
  height:200px; 
 
 /* end of grid hacks */
+
+.view-soundcloud {
+    min-height: 324px;
+}
