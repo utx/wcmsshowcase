@@ -172,4 +172,11 @@ background-color: rgb(236,237,239);
  min-height:220px;
 }
 
+.colrowtwo .span3 {
+ margin-top:23px;   
+}
+
+.colrowtwo .span3 .description {
+ height:200px; 
+
 /* end of grid hacks */
