@@ -187,15 +187,15 @@ background-color: rgb(236,237,239);
 
 /* tables */
 .view-richTall .view-comp-embedded-table {
- background:white;
- margin-top: 5px;
+ background:white !important;
+ margin-top: 5px !important;
 }
 
 .view-richTall .view-comp-embedded-table tr:nth-child(even) {
-  background-color: lightgrey;
+  background-color: lightgrey !important;
 }
 
 tr:nth-child(odd) {
-  background-color: white;
+  background-color: white !important;
 }
 /* end of tables */
