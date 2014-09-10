@@ -1,4 +1,17 @@
 
+/* quotes */
+
+.comp-rich-text-blockquote.source-pullquote {
+ background-position:10% top;   
+}
+
+.comp-rich-text-blockquote.source-pullquote .quote {
+ background-position:90% top;   
+}
+
+
+/* end quotes */
+
 /* tables */
 
 
