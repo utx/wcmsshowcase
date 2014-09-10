@@ -184,3 +184,18 @@ background-color: rgb(236,237,239);
 .view-soundcloud {
     min-height: 324px;
 }
+
+/* tables */
+.view-richTall .view-comp-embedded-table {
+ background:white;
+ margin-top: 5px;
+}
+
+.view-richTall .view-comp-embedded-table tr:nth-child(even) {
+  background-color: lightgrey;
+}
+
+tr:nth-child(odd) {
+  background-color: white;
+}
+/* end of tables */
