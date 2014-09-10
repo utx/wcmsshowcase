@@ -186,6 +186,11 @@ background-color: rgb(236,237,239);
 }
 
 /* tables */
+
+.view-richTall {
+ border:5px solid black;
+}
+
 .view-richTall .view-comp-embedded-table {
  background:white !important;
  margin-top: 5px !important;
