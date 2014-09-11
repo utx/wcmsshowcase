@@ -1,3 +1,4 @@
+window.document.onload = function(){
 $("img").each(function() {
     //Do your work  
     if(this.alt.substring(0,5) == 'large')
@@ -7,3 +8,6 @@ $("img").each(function() {
     $(this).attr('src',src);
     }
 })
+} 
+
+
