@@ -1,0 +1,92 @@
+#navigationPrimary6 ul {
+    background: black;
+    color: white;
+}
+
+#navigationPrimary6 ul li {
+    background: black;
+    color: white;
+}
+
+#navigationPrimary6 ul li a {
+    background: black;
+    color: white;
+}
+
+.main-content-container {
+    background: url(http://www.abc.net.au/atthemovies/css/bg_body2014e.jpg) no-repeat top center;
+}
+
+.mainrow1 {
+    margin-top: 50px;
+}
+
+.more-menu-container {
+    display: none;
+}
+
+.movieheader1 {
+    background: black;
+    max-height: 150px;
+    overflow: hidden;
+}
+
+.reviewsrow {
+    background-color: black;
+}
+
+.reviewsrow .grid-item .description {
+    background-color: black;
+    color: #ababab;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.80em;
+    line-height: 1.5em;
+    padding: 5px;
+}
+
+.reviewsrow .grid-item .description p {
+}
+
+.reviewsrow .grid-item .title {
+    padding: 0px;
+}
+
+.reviewsrow .grid-item .title a {
+    color: #df4444;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17.7777786254883px;
+}
+
+.reviewsrow .view-collection-grid .title {
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+.view-comp-embedded-table {
+    background: red;
+}
+
+@media all and (min-width: 900px) {
+  .movieheader1 img {    
+    margin-left: 200px;
+  }
+}
+
+@media all and (max-width: 640px) {
+  .movieheader1 img[src$=jpg] {    
+    display: none;
+  }
+}
+
+table {
+    background-color: black;
+    border: 0px;
+}
+
+table td {
+    background-color: black;
+    border: 0px;
+    color: #ababab;
+    line-height: 7px;
+}
+
