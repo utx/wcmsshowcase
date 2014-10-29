@@ -230,3 +230,6 @@ background-color: rgb(236,237,239);
     color: black;
 }
 
+.view-navigationPrimary .level-1 li.current {
+background-color: silver;
+}
