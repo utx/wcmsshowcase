@@ -218,6 +218,15 @@ background-color: rgb(236,237,239);
     min-height: 324px;
 }
 
-/* extra screen css */
+/* extra nav css */
 
+
+.view-navigationPrimary .level-1 li {
+    background-color: rgb(236,237,239);
+    width: 140px;
+}
+
+.view-navigationPrimary .level-2 li a,.view-navigationPrimary .more-menu li a {
+    color: black;
+}
 
