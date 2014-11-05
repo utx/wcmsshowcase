@@ -183,36 +183,6 @@ background-color: rgb(236,237,239);
 
 /* end nav bar */
 
-/* grid hacks */
-
-.view-collection-grid {
-   
-
-}
-
-.view-collection-grid .description {
-    
-}
-
-.view-collection-grid .grid-item {
-    height: 380px ;
-    
-}
-
-.grid-item .description {
- 
- min-height:220px;
-}
-
-.colrowtwo .span3 {
- margin-top:23px;   
-}
-
-.colrowtwo .span3 .description {
- height:200px; 
-}
-
-/* end of grid hacks */
 
 .view-soundcloud {
     min-height: 324px;
