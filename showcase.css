@@ -203,3 +203,13 @@ background-color: rgb(236,237,239);
 .view-navigationPrimary .level-1 li.current {
 background-color: rgb(236,237,239);
 }
+
+//carousel hack
+
+.view-collection-carousel .flexslider.carousel .caption {
+    min-height: 10px;
+}
+
+.view-collection-carousel .flex-direction-nav a {
+    bottom: 3px;
+}
