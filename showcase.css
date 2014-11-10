@@ -207,7 +207,7 @@ background-color: rgb(236,237,239);
 //carousel hack
 
 .view-collection-carousel .flexslider.carousel .caption {
-    min-height: 10px;
+    min-height: 10px !important;
 }
 
 .view-collection-carousel .flex-direction-nav a {
