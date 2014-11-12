@@ -1,3 +1,69 @@
+/* nov demo hacks */
+
+.view-searchForm .content-container {
+    border: 1px solid darkgrey;
+    margin-top: -15px;
+    padding-bottom: 0px;
+    height: 50px;
+}
+
+@media  (min-width: 1000px) {
+  .view-collection-grid .grid-item {    
+    height: 240px;
+  }
+}
+
+@media  (max-width: 640px) {
+  .row2 .view-collection-grid .grid-item .view-richTallGrid {
+  }
+}
+
+@media  (min-width: 640px) {
+  .row2 .view-collection-grid .grid-item .view-richTallGrid {    
+    height: 180px;
+  }
+}
+
+@media  (min-width: 640px) and (max-width: 1000px) {
+  .firstrow .col-md-9 .view-collection-carousel-placed {    
+    background-color: black;    
+    border-bottom: 1px solid black;    
+    min-height: 322px;
+  }
+  .firstrow .view-collection-social-media-promo {    
+    display: none;
+  }
+}
+
+.flexslider {
+    background: black;
+}
+
+.view-collection-social-media-promo .title {
+    display: none;
+}
+
+.view-collection-social-media-promo {
+    margin-top: 20px;
+}
+
+.row2 .description {
+    height: 43%;
+    background: #ebebeb;
+}
+
+div.main-content-container section.abcrow {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.firstrow {
+    padding-top: 10px;
+}
+
+
+
+/*end nov demo hacks */
 
 /* quotes */
 
@@ -184,9 +250,6 @@ background-color: rgb(236,237,239);
 /* end nav bar */
 
 
-.view-soundcloud {
-    min-height: 324px;
-}
 
 /* extra nav css */
 
