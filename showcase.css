@@ -1,5 +1,13 @@
 /* nov demo hacks */
 
+.social-icon:before {
+    content: " ";
+}
+
+.view-collection-carousel .flexslider.carousel .caption {
+    min-height: 10px ;
+}
+
 .view-searchForm .content-container {
     border: 1px solid darkgrey;
     margin-top: -15px;
