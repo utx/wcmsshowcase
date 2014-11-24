@@ -1,3 +1,28 @@
 .qaheader {
 background-color:black;
 }
+
+/* nav */
+
+.carouselnav nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+
+.carouselnav nav li {
+    display: block;
+    width: 190px;
+    background-color:white;
+}
+
+.carouselnav nav a {
+    color:#a21420;
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* end of nav */
