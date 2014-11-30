@@ -10,6 +10,19 @@ background-image:url('http://www.abc.net.au/tv/qanda/styles/img/bg_site_header.j
 
 /* nav */
 
+/* hide nav on mobile */
+
+@media  (max-width: 640px) {
+  .carouselnav nav {    
+    display: none;
+  }
+  .view-navigationFooter {    
+    display: none;
+  }
+}
+
+/* end hide nav */
+
 .carouselnav nav ul {
     list-style-type: none;
     margin: 0;
