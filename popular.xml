@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DimensionalReport>
+  <ReportDefinition name="definition">
+    <decimal name="accountID">18789</decimal>
+    <string name="profileID">6h4XTB75zC6</string>
+    <string name="ID">18d039ae0360</string>
+    <string name="name">Pages</string>
+    <boolean name="isRealtime">false</boolean>
+    <string name="type">dimensional</string>
+    <list name="properties">
+      <boolean name="isHierarchy">false</boolean>
+      <boolean name="intervalsEnabled">true</boolean>
+      <boolean name="IsSearchable">true</boolean>
+      <string name="internalID">toppages_v</string>
+      <boolean name="IsRealTimeCompatible">true</boolean>
+      <null name="ProfileCategory"></null>
+      <string name="totals">all</string>
+      <boolean name="ContainsRealtimeData">false</boolean>
+      <string name="LastUpdate">06/29/2011 16:08:45</string>
+      <string name="datasource">engine</string>
+      <string name="enginesearchtime">3459.9598</string>
+    </list>
+    <Dimension name="dimension">
+      <string name="ID">Time</string>
+      <string name="name">Time</string>
+      <string name="type">period</string>
+      <list name="Range">
+        <string name="startperiod">current_day</string>
+      </list>
+      <Dimension name="SubDimension">
+        <string name="ID">Url</string>
+        <string name="name">Pages</string>
+        <string name="type">data</string>
+        <list name="Range">
+          <string name="search">stories</string>
+          <decimal name="startRow">1</decimal>
+          <decimal name="endRow">20</decimal>
+        </list>
+      </Dimension>
+    </Dimension>
+    <list name="measures">
+      <Measure>
+        <string name="name">Visits</string>
+        <string name="ID">Users-0</string>
+        <decimal name="columnID">0</decimal>
+        <boolean name="AllowTotals">true</boolean>
+        <boolean name="Sortable">false</boolean>
+      </Measure>
+      <Measure>
+        <string name="name">Views</string>
+        <string name="ID">Hits-0</string>
+        <decimal name="columnID">0</decimal>
+        <boolean name="AllowTotals">true</boolean>
+        <boolean name="Sortable">false</boolean>
+      </Measure>
+      <Measure>
+        <string name="name">Average Time Viewed</string>
+        <string name="ID">Time-0</string>
+        <decimal name="columnID">0</decimal>
+        <boolean name="AllowTotals">true</boolean>
+        <boolean name="Sortable">false</boolean>
+      </Measure>
+    </list>
+  </ReportDefinition>
+  <list name="data">
+    <DataRow name="06/30/2011">
+      <list name="measures">
+        <null name="Visits"></null>
+        <float name="Views">3113</float>
+        <null name="Average Time Viewed"></null>
+      </list>
+      <list name="SubRows">
+	  <list name="SubRows">
+        <DataRow name="http://wcms-www3.test.abc.net.au/test-commercial/putin-dismisses-defence-minister-after-scandal/562358">
+          <list name="Attributes">
+            <string name="Title">Putin dismisses defence minister after scandal</string>
+            <string name="UrlLink">http://wcms-www3.test.abc.net.au/test-commercial/putin-dismisses-defence-minister-after-scandal/562358</string>
+          </list>
+          <list name="measures">
+            <null name="Visits"></null>
+            <float name="Views">341</float>
+            <null name="Average Time Viewed"></null>
+          </list>
+        </DataRow>
+<DataRow name="http://wcms-www3.test.abc.net.au/test-commercial/yamaha/310768">
+          <list name="Attributes">
+            <string name="Title">Yamaha Title</string>
+            <string name="UrlLink">http://wcms-www3.test.abc.net.au/test-commercial/yamaha/310768</string>
+          </list>
+          <list name="measures">
+            <null name="Visits"></null>
+            <float name="Views">341</float>
+            <null name="Average Time Viewed"></null>
+          </list>
+        </DataRow>
+        <DataRow name="http://wcms-www3.test.abc.net.au/test-commercial/simon-cullen-speaks-with-ita-buttrose/311308">
+          <list name="Attributes">
+            <string name="Title">SImon Cllen speaks weith Ita Buttrose</string>
+            <string name="UrlLink">http://wcms-www3.test.abc.net.au/test-commercial/simon-cullen-speaks-with-ita-buttrose/311308</string>
+          </list>
+          <list name="measures">
+            <null name="Visits"></null>
+            <float name="Views">216</float>
+            <null name="Average Time Viewed"></null>
+          </list>
+        </DataRow>
+        <DataRow name="http://wcms-www3.test.abc.net.au/test-commercial/union-says-grollo-refused-compromise-offer/303992">
+          <list name="Attributes">
+            <string name="Title">Grollo refused compromise offer</string>
+            <string name="UrlLink">http://wcms-www3.test.abc.net.au/test-commercial/union-says-grollo-refused-compromise-offer/303992</string>
+          </list>
+          <list name="measures">
+            <null name="Visits"></null>
+            <float name="Views">128</float>
+            <null name="Average Time Viewed"></null>
+          </list>
+        </DataRow>
+          </list>
+        
+        <DataRow name="http://wcms-www3.test.abc.net.au/test-commercial/seven-wonders/311722">
+          <list name="Attributes">
+            <string name="Title">Dummy - Seven Wonders</string>
+            <string name="UrlLink">http://wcms-www3.test.abc.net.au/test-commercial/seven-wonders/311722</string>
+          </list>
+          <list name="measures">
+            <null name="Visits"></null>
+            <float name="Views">100</float>
+            <null name="Average Time Viewed"></null>
+          </list>
+        </DataRow>
+</list>
+	</DataRow>
+      </list>
+
+</DimensionalReport>
