@@ -1,3 +1,14 @@
+/*jan updates */
+
+.view-navigationPrimary .level-2 {
+    background-color: rgb(236,237,239);
+}
+
+.view-navigationPrimary .level-2 li a {
+    background-color: rgb(236,237,239);
+    color:black;
+}
+
 /* nov demo hacks */
 
 .social-icon:before {
