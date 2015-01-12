@@ -1,5 +1,35 @@
 /*jan updates */
 
+.view-navigationPrimary .level-1 li.more-menu-container {
+    color: black;
+}
+
+.more-link .js-toggle-primary-nav {
+    color: black;
+}
+
+.more-menu-container a {
+    color: black;
+}
+
+.view-navigationPrimary .level-1 li.more-menu-container a [class*="icon-"] {
+    border-top: solid 0px #424242 ;
+    border-bottom: none ;
+    /*background: rgb(236,237,239) ;*/
+    color: silver;
+}
+
+.view-navigationPrimary .level-1 li.more-menu-container .more-level-1 li {
+    background: rgb(236,237,239);
+    border-top: solid 0px #424242;
+    border-bottom: solid 0px #000;
+}
+
+.view-navigationPrimary .level-1 li.more-menu-container .more-level-1 {
+    background-color: rgb(236,237,239) ;
+}
+
+
 .view-navigationPrimary .level-2 {
     background-color: rgb(236,237,239) !important;
 }
