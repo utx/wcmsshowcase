@@ -1,12 +1,12 @@
 /*jan updates */
 
 .view-navigationPrimary .level-2 {
-    background-color: rgb(236,237,239);
+    background-color: rgb(236,237,239) !important;
 }
 
 .view-navigationPrimary .level-2 li a {
-    background-color: rgb(236,237,239);
-    color:black;
+    background-color: rgb(236,237,239) !important;
+    color:black !important;
 }
 
 /* nov demo hacks */
