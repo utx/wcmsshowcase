@@ -1,5 +1,9 @@
 /*jan updates */
 
+ .firstrow .view-collection-social-media-promo {    
+    display: none;
+  }
+
 .tentoppadding {
 margin-top: 10px;
 }
