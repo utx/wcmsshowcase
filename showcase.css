@@ -1,8 +1,6 @@
 /*jan updates */
 
- .firstrow .view-collection-social-media-promo {    
-    display: none;
-  }
+ 
 
 .tentoppadding {
 margin-top: 10px;
@@ -86,6 +84,9 @@ margin-top: 10px;
     background-color: black;    
     border-bottom: 1px solid black;    
     min-height: 322px;
+  }
+  .firstrow .view-collection-social-media-promo {    
+    display: none;
   }
  
 }
