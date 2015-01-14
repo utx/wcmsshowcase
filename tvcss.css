@@ -9,7 +9,7 @@
 }
 
 .tvheaderrow,.tvheaderrow .view-navigationPrimary nav ul li,.tvheaderrow .view-navigationPrimary nav ul {
-    background: #111 ;
+    background: #111 !important ;
 }
 
 .tvrow1 .col-md-12 .view-collection-gallery-list .grid-item {
