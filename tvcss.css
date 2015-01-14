@@ -1,0 +1,43 @@
+.tvheaderrow .view-navigationPrimary nav ul li a {
+    background: #111 ;
+    color: #cacaca;
+    text-decoration: none;
+    display: block;
+    font: 16px "Interval Sans Pro Regular",Arial,Helvetica,sans-serif;
+    font-weight: 400;
+    padding: 10px 12px;
+}
+
+.tvheaderrow,.tvheaderrow .view-navigationPrimary nav ul li,.tvheaderrow .view-navigationPrimary nav ul {
+    background: #111 ;
+}
+
+.tvrow1 .col-md-12 .view-collection-gallery-list .grid-item {
+    width: 50%;
+    margin-left: -27px;
+}
+
+.tvrow1 .caption {
+    padding-left: 40px;
+}
+
+.tvrow2 .col-md-12 .view-collection-gallery-list .grid-item {
+    width: 33%;
+    margin-left: -15px;
+}
+
+.tvrow2 {
+    margin-top: -50px;
+}
+
+.tvrow2 .caption {
+    padding-left: 30px;
+}
+
+.main-content-container {
+    background: #111;
+}
+
+.tvrow1 h2 {
+    color: #e5e5e5;
+}
