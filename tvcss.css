@@ -1,6 +1,6 @@
 .tvheaderrow .view-navigationPrimary nav ul li a {
-    background: #111 ;
-    color: #cacaca;
+    background: #111 important! ;
+    color: #cacaca !important ;
     text-decoration: none;
     display: block;
     font: 16px "Interval Sans Pro Regular",Arial,Helvetica,sans-serif;
