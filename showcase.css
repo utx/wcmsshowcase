@@ -1,5 +1,13 @@
 /*jan updates */
 
+h4 {
+    font-weight: normal;
+    font-size: 1.333em;
+    line-height: 1;
+    margin: 0 0 0.3333em;
+    display: block;
+    margin-bottom: 0.1em;
+}
  
 .main-content-container {
 background-color:rgb(236,237,239);
