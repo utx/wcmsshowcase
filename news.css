@@ -49,13 +49,13 @@
 }
 
 .source-keypoints {
-    background-color: white;
-    background-image: url(http://wcms-preview.aus.aunty.abc.net.au/assets/default-1.0/images/icon-keypoint-60x60.png);
-    background-position: 30px 5px;
-    margin: 5px;
-    background-size: 15%;
-    border: 1px solid #e5e5e5;
-    border-left: 20px solid #e5e5e5;
+    background-color: white !important;
+    background-image: url(http://wcms-preview.aus.aunty.abc.net.au/assets/default-1.0/images/icon-keypoint-60x60.png) !important;
+    background-position: 30px 5px !important;
+    margin: 5px !important;
+    background-size: 15% !important;
+    border: 1px solid #e5e5e5 !important;
+    border-left: 20px solid #e5e5e5 !important;
 }
 
 .source-keypoints li {
