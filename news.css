@@ -11,3 +11,35 @@
     text-shadow: 1px 1px 2px #fff;
     white-space: nowrap;
 }
+
+/* Example styles for formatted objects */
+
+.comp-rich-text-blockquote {
+    border-left: 0px;
+}
+
+.source-pullquote footer::before {
+    content: ' ';
+}
+
+.source-pullquote footer {
+    color: #666;
+    font-size: 0.7em;
+    text-align: center;
+}
+
+.comp-rich-text-blockquote.source-pullquote {
+    background: url(http://www.abc.net.au/res/sites/news/images/news/pullquote.png?1) no-repeat;
+}
+
+.source-pullquote p {
+    background: url(http://www.abc.net.au/res/sites/news/images/news/pullquote.png?1) no-repeat 100% 100%;
+}
+
+.source-blockquote {
+    color: #655c9d;
+    margin-top: -12px;
+    margin-left: 15px;
+    width: 200px;
+    font-size: 18px;
+}
