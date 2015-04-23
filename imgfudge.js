@@ -1,13 +1,11 @@
 window.document.onload = function(){
-$("img").each(function() {
-    //Do your work  
-    if(this.alt.substring(0,5) == 'large')
-    {
-    console.log(this.src)
-    var src = $(this).attr("src").replace("small", "large");
-    $(this).attr('src',src);
-    }
-})
+$('img').each(function () {
+    theimg = $(this).attr('src')
+    alert(theimg);
+    theimg = theimg.replace('thumbnail','large');
+    $(this).attr('src',theimg)
+  
+});
 } 
 
 
